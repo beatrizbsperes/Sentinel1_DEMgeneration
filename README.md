@@ -38,7 +38,7 @@ conda activate sar_env
   - Costa Rica: Dense tropical vegetation
   - Cabo Verde: Arid/semi-arid bare soil regions
 
-Under the ```_data``` folder you can find several sets of raw data that can be used. They are separated between ```costa_rica``` and ```cabo_verde``` folders and inside each of them you can find the raw data separated between ```small_perp_baseline``` and ```big_perp_baseline```.
+Under the ```_data``` you can store your input data. After, when you run the pipeline don't forget to update the name in which the raw data was stored.
 
 ### Baseline Requirements
 - **Short baseline**: ~30m perpendicular baseline
